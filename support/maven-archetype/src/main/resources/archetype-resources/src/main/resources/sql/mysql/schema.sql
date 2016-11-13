@@ -19,6 +19,6 @@ create table ${tablePrefix}user (
 	password varchar(255) not null,
 	salt varchar(64) not null,
 	roles varchar(255) not null,
-	register_date timestamp not null default 0,
+	register_date timestamp not null ,
 	primary key (id)
 ) engine=InnoDB;
