@@ -12,3 +12,8 @@
 -------------------------------
 Offical Site: http://springside.io
 Document: https://github.com/springside/springside4/wiki
+
+
+注意，直接下载dev_4.0分支：
+
+模版引擎已经修改为mysql，并消除启动错误
